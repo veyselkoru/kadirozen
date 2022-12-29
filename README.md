@@ -1,4 +1,4 @@
-# kadirozen bu komutları takip edebilirsin.
+bu komutları takip edebilirsin.
 
 yarn install
 expo prebuild
